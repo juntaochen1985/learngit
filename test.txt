@@ -1,2 +1,2 @@
 test.txt内容如下：
-dev:猪八戒is一只猪
+dev:猪八戒is一只猪。哈哈
