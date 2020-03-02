@@ -1,2 +1,1 @@
 test.txt内容如下：
-猪八戒 is a pig。
